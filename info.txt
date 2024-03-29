@@ -1,0 +1,25 @@
+1-sys :
+The python sys module provides functions and variables which are used to 
+manipulate different parts of the Python Runtime Environment. 
+It lets us access system-specific parameters and functions.
+------------------------
+Note: for this python GUI Application i used the PyQt v6 package . 
+
+2-PyQt : PyQt is a Python binding for Qt, which is a set of C++ libraries 
+and development tools providing platform-independent abstractions 
+for graphical user interfaces (GUIs). 
+Qt also provides tools for networking, threads, regular expressions, SQL databases, SVG, 
+OpenGL, XML, and many other powerful features.
+------------------------
+3-functools & partial :
+The functools module, part of Python's standard Library, 
+provides useful features that make it easier to work with high order functions 
+(a function that returns a function or takes another function as an argument ). 
+
+
+
+Python provides a built-in module called functools that includes a function 
+called partial that can be used to create partial functions. 
+The partial function takes a callable (usually another function) and a series of arguments to be pre-filled in the new partial function. 
+This feature is similar to bind in C++
+------------------------
