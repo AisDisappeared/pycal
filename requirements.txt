@@ -1,0 +1,3 @@
+Note: for this python GUI Application i used the PyQt v6 package . 
+
+PyQt : PyQt is a Python binding for Qt, which is a set of C++ libraries and development tools providing platform-independent abstractions for graphical user interfaces (GUIs). Qt also provides tools for networking, threads, regular expressions, SQL databases, SVG, OpenGL, XML, and many other powerful features.
