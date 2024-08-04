@@ -15,20 +15,27 @@ To run PyCal, you need to have Python 3.x installed on your system. Additionally
 - PyQt6
 
 You can install the necessary dependencies using pip:
+
+~~~bash
 pip install PyQt6
+~~~
 
 ## Installation
 
 1. Clone the repository:
+
    ~~~bash  
    git clone https://github.com/AisDisappeared/pycal.git
    ~~~
+
 2. Navigate to the project directory:
+
    ~~~bash
    cd pycal
    ~~~
 
 3. Install the required dependencies:
+
    ~~~bash
    pip install -r requirements.txt
    ~~~
@@ -36,8 +43,9 @@ pip install PyQt6
 ## Usage
 
 To run the PyCal application, execute the following command from the project directory:
+
 ~~~bash
-python pycal.py
+python3 pycal.py
 ~~~
 
 This will launch the calculator GUI where you can perform calculations.
@@ -46,10 +54,10 @@ This will launch the calculator GUI where you can perform calculations.
 
 Contributions are welcome! If you have suggestions, bug fixes, or new features, please follow these steps:
 
-+ Fork the repository and clone your fork locally.
-+ Create a new branch for your changes.
-+ Make your changes and test thoroughly.
-+ Submit a pull request with a description of your changes.
+- Fork the repository and clone your fork locally.
+- Create a new branch for your changes.
+- Make your changes and test thoroughly.
+- Submit a pull request with a description of your changes.
 
 Thank you for contributing!
 
